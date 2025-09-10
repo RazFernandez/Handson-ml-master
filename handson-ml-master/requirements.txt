@@ -1,3 +1,6 @@
+# This is a list of requirements to run the current project
+# Plase, run pip install requirements.txt before working on this project
+
 # TensorFlow is much easier to install using Anaconda, especially
 # on Windows or when using a GPU. Please see the installation
 # instructions in INSTALL.md
