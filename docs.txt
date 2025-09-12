@@ -1,0 +1,45 @@
+==================================
+   CYBERSECURITY BASICS - CHEATSHEET
+==================================
+
+Category: Cybersecurity  
+File created: $(date)  
+
+1. Password Security
+   - Use at least 12+ characters (letters, numbers, symbols).
+   - Never reuse passwords across accounts.
+   - Use a password manager for safe storage.
+
+2. Two-Factor Authentication (2FA)
+   - Always enable 2FA where available.
+   - Prefer authenticator apps (e.g., Authy, Google Authenticator) over SMS.
+
+3. Secure Your Devices
+   - Keep operating system and applications up to date.
+   - Install antivirus/anti-malware software.
+   - Encrypt sensitive data (e.g., with GnuPG, VeraCrypt).
+
+4. Network Safety
+   - Avoid using public Wi-Fi without a VPN.
+   - Use WPA3/WPA2 for home Wi-Fi.
+   - Disable WPS and change the router default password.
+
+5. Phishing Awareness
+   - Do not click suspicious links or attachments.
+   - Verify sender identity before responding.
+   - Look out for spelling errors or strange domains.
+
+6. Backup Strategy
+   - Follow the 3-2-1 rule: 
+     3 copies of data, 2 different storage mediums, 1 off-site backup.
+   - Test backups regularly to ensure recovery works.
+
+7. Useful Linux Security Commands
+   - `ufw enable` -> Enable firewall.
+   - `fail2ban-client status` -> Check brute-force protection.
+   - `last` -> Show recent logins.
+   - `who` -> Show currently logged in users.
+
+==================================
+   Stay secure. Think before you click.
+==================================
