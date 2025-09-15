@@ -47,6 +47,7 @@ We welcome contributions from developers, designers, and financial education ent
 
 ## 📎 Project Resources
 - 📄 **Requirement Analysis**: [link](https://drive.google.com/file/d/1KsBCzoySOaVWCq0-mmd7hPsFz87PcQLR/view?usp=sharing)
+- 🗳️ **Backlog and Roadmap**: [link](https://github.com/users/RazFernandez/projects/4)
 - 📊 **App diagrams**: [link](https://drive.google.com/drive/folders/1c1TF6LC9ZHpPwPmQd1DP_SYAdFyRNFB_?usp=sharing)
 - 📱 **Testable APK**: [link](https://drive.google.com/drive/folders/1V_q7_l3E-voORXtVQDVyLvzuySwarEp7?usp=sharing)
 
