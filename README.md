@@ -45,12 +45,8 @@ We welcome contributions from developers, designers, and financial education ent
 
 ---
 
-## 📎 Recursos del proyecto
-- 📄 **Analisís de requisitos**: [link](https://drive.google.com/file/d/1KsBCzoySOaVWCq0-mmd7hPsFz87PcQLR/view?usp=sharing)
-- 📊 **Diagramas de la aplicación**: [link](https://drive.google.com/drive/folders/1ODu_-UBkVoS_Fy8dgYrN45kIP9eAJCEM?usp=sharing)
-- 🎨 **Componentes en Figma para la interfaz de usuario**: [link](https://drive.google.com/drive/folders/1H1uvHyqtBwZrcE9htaDW-c4WdfDBWPz1?usp=sharing)
-- 🧩 **Interfaces desarrolladas en Balsamiq (wireframes de baja fidelidad)**: [link](https://drive.google.com/drive/folders/1Ds8j4xuGCCi5BN2bcHivMM5WK2CrvPpV?usp=sharing)
-- 🖼️ **Interfaces desarrolladas en Figma (diseño visual final)**: [link](https://drive.google.com/drive/folders/1Cj01WSLmdL2szF1F1a6LW9sDPvfTeM3F?usp=sharing)
-- 🔄 **Prototipo interactivo en Figma**: [link](https://www.figma.com/proto/jCwmiHyeVkdLlvOZtxhu9X/Club-Steam?node-id=33-3872&t=CkpAVjORqycpr3kP-1&starting-point-node-id=33%3A3872)
-- 📱 **APK de la aplicación para pruebas**: [link](https://drive.google.com/drive/folders/1V_q7_l3E-voORXtVQDVyLvzuySwarEp7?usp=sharing)
+## 📎 Project Resources
+- 📄 **Requirement Analysis**: [link](https://drive.google.com/file/d/1KsBCzoySOaVWCq0-mmd7hPsFz87PcQLR/view?usp=sharing)
+- 📊 **App diagrams**: [link](https://drive.google.com/drive/folders/1c1TF6LC9ZHpPwPmQd1DP_SYAdFyRNFB_?usp=sharing)
+- 📱 **Testable APK**: [link](https://drive.google.com/drive/folders/1V_q7_l3E-voORXtVQDVyLvzuySwarEp7?usp=sharing)
 
